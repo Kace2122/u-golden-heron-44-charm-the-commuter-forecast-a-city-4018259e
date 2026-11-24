@@ -4,6 +4,7 @@
 Writes one line of weather forecast (<=140 chars) for the invented city
 Drizzlewick to /output/entry.txt. Forecast register, concrete detail
 (the 8:04 bus on time), and a small smile for a bored commuter.
+The line is 123 characters: every word earns its place.
 """
 import os
 
